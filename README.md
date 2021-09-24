@@ -1,6 +1,6 @@
 # Tip-Calculator
 
-![Project Image](project-image-url)
+![Project Image](image.jpg)
 
 
 ---
