@@ -1,5 +1,7 @@
 # Tip-Calculator
 
+ [Live Project Here](https://hayfordz.github.io/Tip-Calculator/)
+
 ![Project Image](image.jpg)
 
 
